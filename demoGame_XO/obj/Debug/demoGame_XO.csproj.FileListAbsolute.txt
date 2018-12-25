@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\bin\Debug\demoGame_XO.exe.config
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\bin\Debug\demoGame_XO.exe
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\bin\Debug\demoGame_XO.pdb
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.Form1.resources
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.Properties.Resources.resources
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.exe
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.pdb
+C:\Users\Dell\source\repos\demoGame_XO\demoGame_XO\obj\Debug\demoGame_XO.csprojAssemblyReference.cache
